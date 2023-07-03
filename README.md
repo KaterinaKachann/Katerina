@@ -24,10 +24,6 @@ Frontend developer
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 </p>
 
-<!-- Your badges -->
-[![Linkedin](https://www.linkedin.com/in/ekaterina-kachan/)
-[![Codewars](https://www.codewars.com/users/rsschool_ae4169ad82a23e28)
-
 <!-- Profile View Count and GitStats -->
 ![KaterinaKachann's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaterinaKachann&show_icons=true&theme=dark)
 
