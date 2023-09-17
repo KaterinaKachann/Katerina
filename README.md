@@ -4,7 +4,7 @@ Hi 👋 My name is Katerina Kachan
 Frontend developer
 -------------------------------------------------
 
-* 🌍  I'm based in Melbourne, Australia
+* 🌍  I'm based in Minsk, Belarus
 * ✉️  You can contact me at [eka.kachan@gmail.com](mailto:eka.kachan@gmail.com)
 * 🧠  I'm learning Redux, TypeScript, English
 * 🤝  I'm open to collaborating Medicine, Marketing, Eco startups
