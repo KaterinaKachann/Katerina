@@ -6,8 +6,9 @@ Frontend developer
 
 * 🌍  I'm based in Gdynia, Poland
 * ✉️  You can contact me at [eka.kachan@gmail.com](mailto:eka.kachan@gmail.com)
-* 🧠  I'm learning Next, Redux, TypeScript, English
-* 🤝  I'm open to collaborating Medicine, Marketing, Eco startups
+* 🧠  My stack JavaScript| Typescript, React, Next JS, Redux.
+* 🧠  I'm learning Node JS, Symphony, Docker
+* 🤝  I'm open to collaborating Medicine, Marketing, Eco startups, AI
 
 ### Skills
 
